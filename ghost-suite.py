@@ -1,9 +1,4 @@
 #!/usr/bin/env python3
-# ghostsuite_full.py
-# GhostSuite — Full single-file cross-platform defensive/research toolkit
-# Features: ~30 local tools, Capstone optional, WhatsApp follow gate (first-run), color UI
-# Author: 0xCG (adapted for you)
-# NOTE: Use responsibly & only on authorized systems.
 
 import os, sys, time, threading, socket, hashlib, base64, random, string, subprocess, re, json, math, struct, platform, webbrowser, getpass
 from pathlib import Path
@@ -956,7 +951,7 @@ def aslr_entropy_tester():
 # ---------------- Developer Contact placeholder ----------------
 def developer_contact():
     hr(Fore.CYAN)
-    print(Fore.CYAN + "Developer Contact (placeholder). Paste your GitHub/Discord/Email here.")
+    print(Fore.CYAN + "alpha-0.2-pk@proton.me")
     hr(Fore.CYAN)
     pause()
 
