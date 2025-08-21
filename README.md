@@ -11,7 +11,7 @@ It runs on **Linux, Parrot OS, Termux, Windows, macOS** without heavy dependenci
 
 # Clone repo
 ```
-git clone https://github.com/cyber-gh0st/shade-ops
+git clone https://github.com/cyber-gh0stX/shade-ops
 cd shade-ops
 chmod +x ghost-suite.py
 ```
